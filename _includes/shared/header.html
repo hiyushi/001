@@ -1,0 +1,19 @@
+<header class="header">
+  <a href="/">
+    <img src="/assets/images/header-logo.svg" alt="X" class="header-logo">
+  </a>
+
+  <button class="menu-btn"></button>
+
+  <div class="menu-circle"></div>
+
+  <ul class="header-nav">
+    <li class="header-nav-item {% if page.url == '/' %}is-active{% endif %}"><a href="/">Home</a></li>
+    <li class="header-nav-item {% if page.url == '/services/' %}is-active{% endif %}"><a href="/services/">Services</a></li>
+    <li class="header-nav-item {% if page.url == '/our-specialty/' %}is-active{% endif %}"><a href="/our-specialty/">我が社の特色</a></li>
+    <li class="header-nav-item {% if page.url == '/clients/' %}is-active{% endif %}"><a href="/clients/">Clients</a></li>
+    <li class="header-nav-item {% if page.url == '/manifesto/' %}is-active{% endif %}"><a href="/manifesto/">Manifesto</a></li>
+    <li class="header-nav-item {% if page.url == '/insights/' %}is-active{% endif %}"><a target="_blank" href="https://medium.com/greater-than-experience-design">Insights</a></li>
+    <li class="header-nav-item {% if page.url == '/contact/' %}is-active{% endif %}"><a href="/contact/">Contact</a></li>
+  </ul>
+</header>

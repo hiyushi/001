@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="13px" viewBox="0 0 7 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>7.0_Privacy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.14042015,23.863961 L7.14042015,57 L213.463715,57 L213.463715,0 L7.14042015,0 L7.14042015,11.136039 L6.90733283,10.9029516 L0.543371796,17.2669127 L7.14042015,23.863961 Z" id="path-1"></path>
+        <filter x="-3.3%" y="-8.8%" width="106.6%" height="124.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.17254902   0 0 0 0 0.254901961   0 0 0 0 0.776470588  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7.0_Privacy" transform="translate(-329.000000, -2532.000000)">
+            <g id="Privacy-Policy" transform="translate(122.000000, 2129.000000)">
+                <g id="Pop-up-" transform="translate(0.000000, 264.000000)">
+                    <g id="Pop-Up-Copy-2" transform="translate(0.000000, 128.000000)">
+                        <g id="Sector-Bar" transform="translate(107.003543, 28.500000) scale(-1, 1) translate(-107.003543, -28.500000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#2C41C6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

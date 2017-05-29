@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="22px" viewBox="0 0 56 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>3 Pillar Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0_Home_Mobile" transform="translate(-132.000000, -1365.000000)">
+            <g id="3-Pillar-CTA" transform="translate(32.000000, 1366.000000)">
+                <g id="3-Pillar-Icon" transform="translate(101.000000, 0.000000)">
+                    <circle id="Oval-7" stroke="#FAFEFF" cx="10" cy="10" r="10"></circle>
+                    <circle id="Oval-7" fill="#FFFFFF" cx="10" cy="10" r="3"></circle>
+                    <circle id="Oval-7-Copy-3" fill="#FFFFFF" cx="27" cy="10" r="3"></circle>
+                    <circle id="Oval-7-Copy-4" fill="#FFFFFF" cx="44" cy="10" r="3"></circle>
+                    <circle id="Oval-7-Copy" stroke="#FAFEFF" cx="27" cy="10" r="10"></circle>
+                    <circle id="Oval-7-Copy-2" stroke="#FAFEFF" cx="44" cy="10" r="10"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

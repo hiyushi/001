@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Error Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6.3_Contact_Final_Fail_Test" transform="translate(-632.000000, -896.000000)" stroke="#E9404B">
+            <g id="Human-Test" transform="translate(334.000000, 839.000000)">
+                <g id="Error-Icon" transform="translate(299.000000, 58.000000)">
+                    <circle id="Oval" cx="12.5" cy="12.5" r="12.5"></circle>
+                    <path d="M17.4497475,7.55025253 L7.55025253,17.4497475" id="Line" stroke-linecap="square"></path>
+                    <path d="M7.90380592,7.69669914 L17.8033009,17.5961941" id="Line" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

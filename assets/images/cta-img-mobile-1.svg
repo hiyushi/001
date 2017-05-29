@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="53px" height="34px" viewBox="0 0 53 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Services Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0_Home_Mobile" transform="translate(-134.000000, -1077.000000)">
+            <g id="Services-Icon" transform="translate(134.000000, 1077.000000)">
+                <ellipse id="Oval-7" stroke="#FFFFFF" cx="43.5" cy="15.551495" rx="8.5" ry="8.5282392"></ellipse>
+                <ellipse id="Oval-7" fill="#FFFFFF" cx="43.5" cy="15.551495" rx="3.5" ry="3.51162791"></ellipse>
+                <ellipse id="Oval-7-Copy-5" fill="#FAFEFF" cx="15.5" cy="3.51162791" rx="3.5" ry="3.51162791"></ellipse>
+                <ellipse id="Oval-7-Copy-6" fill="#FAFEFF" cx="28.5" cy="29.5980066" rx="3.5" ry="3.51162791"></ellipse>
+                <path d="M42.5,15.551495 L1.5,15.551495" id="Line" stroke="#FAFEFF" stroke-linecap="square"></path>
+                <polyline id="Path" stroke="#FAFEFF" transform="translate(3.750000, 15.551495) rotate(-270.000000) translate(-3.750000, -15.551495) " points="-1.75 12.7923588 3.82986095 18.3106312 9.25 12.7923588"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

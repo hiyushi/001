@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="35px" viewBox="0 0 58 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.0_Home_Final" transform="translate(-243.000000, -1981.000000)">
+            <g id="Animated-CTA" transform="translate(122.000000, 1763.000000)">
+                <g id="Group" transform="translate(122.000000, 218.000000)">
+                    <ellipse id="Oval-7" stroke="#33CC99" cx="46.8442431" cy="16.6057449" rx="9.5" ry="9.18150253"></ellipse>
+                    <ellipse id="Oval-7" fill="#33CC99" cx="46.6721216" cy="16.4393939" rx="3.84089112" ry="3.71212121"></ellipse>
+                    <ellipse id="Oval-7-Copy-5" fill="#FFF032" cx="15.9449926" cy="3.71212121" rx="3.84089112" ry="3.71212121"></ellipse>
+                    <ellipse id="Oval-7-Copy-6" fill="#2B41C6" cx="30.2111596" cy="31.2878788" rx="3.84089112" ry="3.71212121"></ellipse>
+                    <path d="M45.5747241,16.4393939 L0.581428129,16.4393939" id="Line" stroke="#33CC99" stroke-linecap="square"></path>
+                    <polyline id="Path" stroke="#33CC99" transform="translate(3.050572, 16.439394) rotate(-270.000000) translate(-3.050572, -16.439394) " points="-2.98511362 13.5227273 3.13821162 19.3560606 9.08625847 13.5227273"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

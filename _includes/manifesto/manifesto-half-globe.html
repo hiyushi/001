@@ -1,0 +1,28 @@
+<div class="manifesto-half-globe section">
+
+  <div class="half-globe-container">
+
+    <div class="half-globe">
+      <span class="half-globe-point media">The Media</span>
+      <span class="half-globe-point sensory">Sensory<br>Inputs</span>
+      <span class="half-globe-point social">Social<br>Interactions</span>
+      <span class="half-globe-point emotions">Emotions</span>
+      <span class="half-globe-point expectations">Expectations</span>
+
+      <div class="half-globe-content animated fadeInUp wow">
+        {{ page['Half Globe Lead'] | markdownify }}
+        {{ page['Half Globe Text'] | markdownify }}
+      </div>
+    </div>
+
+    <div class="manifesto-half-globe-mobile">
+      {{ page['Half Globe Lead']| markdownify }}
+      <img src="/assets/images/half-globe-mobile.png">
+      <div class="half-globe-text">
+        {{ page['Half Globe Text'] | markdownify }}
+      </div>
+    </div>
+
+  </div>
+
+</div>

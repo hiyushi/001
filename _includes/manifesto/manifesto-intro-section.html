@@ -1,0 +1,13 @@
+<div class="manifesto-section manifesto-intro-section position-top section">
+  <div class="manifesto-wrapper animated fadeInUp wow">
+
+    {{ page['Intro First Text'] | markdownify }}
+
+    <img class="manifesto-image-2" src="../assets/images/manifesto-image-2.svg" alt="">
+    <img class="manifesto-image-2-mobile" src="../assets/images/manifesto-image-2-mobile.svg" alt="">
+
+    {{ page['Intro Second Text'] | markdownify }}
+
+  </div>
+  {% include shared/scroll-prompt.html %}
+</div>

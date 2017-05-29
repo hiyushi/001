@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  {% include shared/head.html %}
+
+  <body class="regular-scroll">
+
+    {% include shared/cookie-notice.html %}
+    
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    {% include shared/header.html %}
+
+      {{ content }}
+
+    {% include shared/footer.html %}
+
+  </body>
+
+  {% include shared/foot.html %}
+</html>
