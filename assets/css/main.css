@@ -7846,7 +7846,7 @@ body.cookie-is-open .error-page-container
 
         height: auto;
         padding-top: 30px;
-        padding-bottom: 100px;
+        padding-bottom: 146px;
     }
 
     .services-colophon
@@ -7984,7 +7984,7 @@ body.cookie-is-open .error-page-container
     .pillar-section
     {
         height: auto;
-        padding: 50px;
+        padding: 80px 50px 0 50px;
     }
 
     .seratonin-box
@@ -8044,7 +8044,7 @@ body.cookie-is-open .error-page-container
     .manifesto-bios
     {
         height: auto;
-        padding: 50px;
+        padding: 50px 50px 100px 50px;
     }
 
     .contact-form
@@ -8106,6 +8106,11 @@ body.cookie-is-open .error-page-container
 
         margin-bottom: 50px;
         padding: 0 50px;
+    }
+
+    .privacy-icon + .privacy-icon
+    {
+        margin-left: 30px;
     }
 
     .privacy-content-segment
