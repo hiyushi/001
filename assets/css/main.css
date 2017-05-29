@@ -5147,6 +5147,11 @@ li.slick-active > button:before
     color: #1c1d21;
 }
 
+.process-col
+{
+    width: 100%;
+}
+
 .process-col p
 {
     margin-top: -10px;
@@ -7058,6 +7063,12 @@ body.cookie-is-open .error-page-container
     display: -webkit-flex;
     display: -ms-flexbox;
     display:         flex;
+}
+
+.venn-1 p
+{
+    position: relative;
+    left: 1px;
 }
 
 .venn-2
@@ -9762,6 +9773,11 @@ body.cookie-is-open .error-page-container
     .venn-3
     {
         right: 10px;
+    }
+
+    .venn-3 p
+    {
+        left: 7px;
     }
 
     .venn-subtitle
