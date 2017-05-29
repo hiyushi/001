@@ -901,6 +901,12 @@ input::-webkit-contacts-auto-fill-button
     pointer-events: none;
 }
 
+ul
+{
+    margin: 0;
+    padding: 0;
+}
+
 .cookie-notice
 {
     font-family: 'Open Sans', sans-serif;
