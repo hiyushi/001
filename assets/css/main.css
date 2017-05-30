@@ -5171,7 +5171,7 @@ li.slick-active > button:before
     color: #2c41c6;
 }
 
-.process-col img
+.process-col svg
 {
     display: block;
 
@@ -9382,7 +9382,7 @@ body.cookie-is-open .error-page-container
             -ms-flex-direction: column;
     }
 
-    .process-col img
+    .process-col svg
     {
         height: auto;
         margin-top: 20px;
