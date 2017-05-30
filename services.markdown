@@ -22,7 +22,7 @@ Strategy Text: |-
 
   Working strategically helps us design what people care about. It helps us deliver what they’ll pay for.
 
-  When this happens, brands differentiate. They’re better positioned to meet strategic objectives.[[[](https://www.greaterthanexperience.design/services)](https://www.greaterthanexperience.design/services/strategy)](https://www.greaterthanexperience.design/services/strategy)
+  When this happens, brands differentiate. They’re better positioned to meet strategic objectives.
 First Slide Text: 'It''s not news that why we do what we do is as important as the
   outcome itself. When it comes to our methodology, this holds true. Here we work
   closely with the business to build a shared understanding of strategy, objectives,
