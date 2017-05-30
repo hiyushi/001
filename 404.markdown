@@ -1,7 +1,0 @@
----
-title: '404'
-date: 2017-05-30 17:30:00 Z
-permalink: error.html
-layout: 404
----
-
