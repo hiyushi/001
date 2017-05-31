@@ -14,7 +14,6 @@ Point 2: |+
 
   You may view, download for caching purposes only, and print pages from the website for your own personal use, subject to the restrictions set out below and elsewhere in these terms of use.
 
-
 List Lead: 'You must not:'
 List Text: |-
   * republish material from this website (including republication on another website);
