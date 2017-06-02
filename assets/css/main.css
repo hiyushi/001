@@ -7028,6 +7028,7 @@ body.cookie-is-open .error-page-container
     width: 192px;
     height: 192px;
 
+    text-align: center;
     vertical-align: top;
 
     color: #2c41c6;
@@ -8795,11 +8796,11 @@ body.cookie-is-open .error-page-container
     .sprint-arrow
     {
         top: inherit;
-        right: 1px;
+        right: -1px;
         bottom: -13px;
-        left: 0;
+        left: -1px;
 
-        width: 9px;
+        width: 10px;
         height: 16px;
         margin: 0 auto;
 
