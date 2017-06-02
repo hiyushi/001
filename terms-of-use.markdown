@@ -9,7 +9,7 @@ Point 1 Text: 'These terms of use govern acceptable use of our website. By using
 
 '
 Point 2 Title: 2. Licence to use website
-Point 2: |+
+Point 2 Text: |+
   Unless otherwise stated, we, or our licensors, own the intellectual property rights of the website and the material available on the website. Subject to the licence below, all these intellectual property rights are reserved.
 
   You may view, download for caching purposes only, and print pages from the website for your own personal use, subject to the restrictions set out below and elsewhere in these terms of use.
