@@ -3158,6 +3158,7 @@ h3
     -webkit-animation-timing-function: ease-in-out;
             animation-timing-function: ease-in-out;
 
+    background-color: white;
     background-image: url('../images/sprint-arrow.svg');
     background-repeat: no-repeat;
 
@@ -8796,11 +8797,11 @@ body.cookie-is-open .error-page-container
     .sprint-arrow
     {
         top: inherit;
-        right: -1px;
+        right: 1px;
         bottom: -13px;
-        left: -1px;
+        left: 0;
 
-        width: 10px;
+        width: 9px;
         height: 16px;
         margin: 0 auto;
 
