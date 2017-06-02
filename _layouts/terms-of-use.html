@@ -14,7 +14,7 @@ layout: normal-scroll
 
     <div class="terms-point">
       <h4 class="terms-heading">{{ page ['Point 2 Title']}}</h4>
-      {{ page ['Point 2']}}
+      {{ page ['Point 2 Text'] | markdownify }}
       <p class="terms-list-lead">{{ page ['List Lead']}}</p>
       <ul class="terms-list">
         {{ page ['List Text'] | markdownify }}
