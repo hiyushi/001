@@ -5174,6 +5174,9 @@ li.slick-active > button:before
 
 .process-col svg
 {
+    position: relative;
+    bottom: 17px;
+
     display: block;
 
     max-width: 100%;
@@ -8022,9 +8025,8 @@ body.cookie-is-open .error-page-container
 
     .manifesto-process
     {
-        height: 70vh;
+        height: auto;
         padding: 50px;
-        padding-top: 0;
     }
 
     .manifesto-process-columns
@@ -8267,7 +8269,7 @@ body.cookie-is-open .error-page-container
 {
     .manifesto-half-globe
     {
-        height: 63vh;
+        height: 70vh;
     }
 }
 
@@ -9387,7 +9389,6 @@ body.cookie-is-open .error-page-container
     .process-col svg
     {
         height: auto;
-        margin-top: 20px;
     }
 
     .process-col:first-child
