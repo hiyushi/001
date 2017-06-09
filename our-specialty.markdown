@@ -8,7 +8,7 @@ Our Speciality Section 1 Text: |-
 
   This pursuit, rather than perfection itself, inspires us on a daily basis.
 
-  > “Wagasya no Tokusyoku” translates to “our company specialty”. Here we offer unique sevices.
+  > “Wagasya no Tokusyoku” translates to “our company specialty”. Here we offer unique services.
 
   Services that create value, meaning and engagement for your customers. Services that competitively differentiate your brand.
 Our Speciality Section 2 Text: |-
