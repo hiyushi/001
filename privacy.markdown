@@ -53,7 +53,7 @@ Second Segment Text: |-
 Info Title 1: Scope
 Info 1: The purpose of greaterthanexperience.design is to provide relevant and valuable
   information regarding our research, design, and strategy services.
-Info Tooltip 1: Share only enough for us to contact you back.
+Info Tooltip 1: We want to show off what we're capable of.
 Info Title 2: Personal information
 Info 2: If you choose to contact us we will collect the email address you nominate
   and any other identifying information you provide such as a name or phone number.
@@ -78,7 +78,7 @@ Info 5: Personal data that is shared with us via our contact form will be secure
   stored and deleted once it is no longer needed for us to fulfill the purpose of
   our business.
 Info Tooltip 5: We don’t hoard your data.
-Info Title 6: Website analytic
+Info Title 6: Website analytics
 Info 6 Text: |-
   To help understand the content and interactions that provide value to greaterthanexperience.design’s website visitors, our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States.
 
