@@ -967,6 +967,8 @@ ul
 .cookie-notice a
 {
     text-decoration: underline;
+
+    color: white;
 }
 
 .cookie-notice-buttons
