@@ -971,6 +971,13 @@ ul
     color: white;
 }
 
+.cookie-notice a:hover,
+.cookie-notice a:visited,
+.cookie-notice a:active
+{
+    color: white;
+}
+
 .cookie-notice-buttons
 {
     display: inline-block;
