@@ -8296,6 +8296,16 @@ body.cookie-is-open .error-page-container
         opacity: 1;
     }
 
+    .header-nav-item a
+    {
+        color: white;
+    }
+
+    .header-nav-item a:visited
+    {
+        color: white;
+    }
+
     .header-nav-item
     {
         font-size: 16px;
