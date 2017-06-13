@@ -2655,6 +2655,8 @@ h3
     width: 180px;
     height: 50px;
 
+    text-decoration: none;
+
     color: #e9404b;
     border: 1px solid #e9404b;
     background-color: white;
@@ -2670,6 +2672,11 @@ h3
 .services-cta:hover
 {
     border-width: 2px;
+}
+
+.services-cta:visited
+{
+    color: #e9404b;
 }
 
 .services-cta:active
