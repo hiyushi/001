@@ -256,6 +256,11 @@ $(function () {
     if (width >= 992 && $('.fp-destroyed').length) {
       createFullpage()
     }
+    if (width >= 992) {
+      $('.error-page-btn-2').attr('href', '/services/#5');
+    } else {
+      $('.error-page-btn-2').attr('href', '/services/#services-diagram');
+    }
   }).trigger('resize')
 
   // Services Carousel
