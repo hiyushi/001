@@ -7833,6 +7833,11 @@ body.cookie-is-open .error-page-container
     {
         max-width: 50%;
     }
+
+    .half-globe
+    {
+        right: -255px;
+    }
 }
 
 @media (max-width: 992px)
