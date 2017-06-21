@@ -874,17 +874,7 @@ a
 {
     text-decoration: underline;
 
-    color: #2c41c6;
-}
-
-a:visited
-{
-    color: #1a237e;
-}
-
-a:active
-{
-    color: #3c9;
+    color: inherit;
 }
 
 input[type='number']::-webkit-outer-spin-button,
@@ -6600,6 +6590,21 @@ body.cookie-is-open .terms-page-container
     margin-bottom: 0;
 }
 
+.terms a
+{
+    color: #2c41c6;
+}
+
+.terms a:visited
+{
+    color: #1a237e;
+}
+
+.terms a:active
+{
+    color: #3c9;
+}
+
 .terms-point
 {
     margin-bottom: 50px;
@@ -6683,6 +6688,21 @@ body.cookie-is-open .privacy .scroll-prompt-text
 .privacy .scroll-prompt-text
 {
     display: block;
+}
+
+.privacy a
+{
+    color: #2c41c6;
+}
+
+.privacy a:visited
+{
+    color: #1a237e;
+}
+
+.privacy a:active
+{
+    color: #3c9;
 }
 
 .privacy-intro
