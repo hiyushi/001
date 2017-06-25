@@ -1,28 +1,18 @@
 ---
 title: Services
 date: 2017-05-05 22:20:00 Z
-Research Text: |-
-  ## Research
-
-  Research is the systematic study of materials and sources in order to establish facts and reach new conclusions. Well, that’s the official definition.
-
-  For us, research is how we learn quickly and in context. This helps focus our collective time, effort and capital in the right direction.
-Design Text: |-
-  ## Design
-
-  Experience Design is about people. It’s about understanding people and helping them get stuff done.
-
-  Our Experience Design process enables us to quantify what people perceive to be valuable, meaningful and engaging.
-
-  We then deliver these outcomes.
-Strategy Text: |-
-  ## Strategy
-
-  Strategy guides budgets, resource allocation, the product that’s developed, and the way it’s marketed.
-
-  Working strategically helps us design what people care about. It helps us deliver what they’ll pay for.
-
-  When this happens, brands differentiate. They’re better positioned to meet strategic objectives.
+Research Text: "## Research\n\nWe balance qualitative and quantitative research. We
+  work across attitudinal and behavioural dimensions to discover what people say,
+  and what they do. \n\nThese efforts provide clarity. They help us define baseline
+  value, meaning and engagement metrics for your customers.\n"
+Design Text: "## Design\n\nStarting with paper and pencil, we design value propositions.
+  We test them. We validate them. \n\nWe then increase fidelity. We design prototypes
+  and conversion funnels. We test them. We validate them.\n\nWe optimise design output
+  for value, meaning and engagement. We test. We validate. We go to market. "
+Strategy Text: "## Strategy\n\nValue, meaning and engagement requires new thinking.\n\nWe
+  help bring customer and business metrics into alignment. We help teams navigate
+  change. We communicate simply. We make it easy to understand the why.\n\nWe’re your
+  strategic partner for the big picture. "
 First Slide Text: 'It''s not news that why we do what we do is as important as the
   outcome itself. When it comes to our methodology, this holds true. Here we work
   closely with the business to build a shared understanding of strategy, objectives,
@@ -45,7 +35,7 @@ Fourth Slide Text: It's time to start realising business value. At this point we
   matters is that we've proven an experience that delivers value, meaning and engagement.
   Your product, service or offer now has a distinct place in the lives of your customers.
   It's time to implement, scale and optimise ruthlessly.
-Colophon: You’re intrigued, but maybe you need a little more detail?
+Colophon: This is what we do. But it goes deeper.
 Colophon 2: Get ready to experience Wagasya no Tokusyoku.
 layout: services
 ---
