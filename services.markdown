@@ -2,9 +2,9 @@
 title: Services
 date: 2017-05-05 22:20:00 Z
 Research Text: "## Research\n\nWe balance qualitative and quantitative research. We
-  work across attitudinal and behavioural dimensions to discover what people say,
-  and what they do. \n\nThese efforts provide clarity. They help us define baseline
-  value, meaning and engagement metrics for your customers.\n"
+  work across attitudinal and behavioural dimensions. From this, we discover what
+  people say and what they do. \n\nThese efforts provide clarity. They help us define
+  baseline value, meaning and engagement metrics for your customers.\n"
 Design Text: "## Design\n\nStarting with paper and pencil, we design value propositions.
   We test them. We validate them. \n\nWe then increase fidelity. We design prototypes
   and conversion funnels. We test them. We validate them.\n\nWe optimise design output
