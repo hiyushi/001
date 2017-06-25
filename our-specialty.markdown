@@ -4,13 +4,13 @@ date: 2017-05-08 10:51:00 Z
 Title: 我が社の特色
 Subtitle: "“Wagasya no Tokusyoku”"
 Our Speciality Section 1 Text: |-
-  Known for its pursuit of perfection, traditional Japanese culture is marvelled globally. This pursuit gave rise to the Just-in-Time philosophy, birthed the Kanban System, and even helped produce some of the finest single malt whiskey ever known.
+  Traditional Japanese culture is marvelled globally. Their pursuit of perfection gave rise to the Just-in-Time philosophy, birthed the Kanban System, and even helped produce some of the finest single malt whiskey ever known.
 
-  This pursuit, rather than perfection itself, inspires us on a daily basis.
+  The pursuit of perfection inspires us on a daily basis.
 
   > “Wagasya no Tokusyoku” translates to “our company specialty”. Here we offer unique services.
 
-  Services that create value, meaning and engagement for your customers. Services that competitively differentiate your brand.
+  These services are the result of our time in market. They’re our unique expertise. They can help you create new customer and business value.
 Our Speciality Section 2 Text: |-
   ## Privacy by Design
 
