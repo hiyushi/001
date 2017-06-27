@@ -5189,6 +5189,21 @@ li.slick-active > button:before
     bottom: 67px;
 }
 
+.manifesto-process a
+{
+    color: #2c41c6;
+}
+
+.manifesto-process a:visited
+{
+    color: #1a237e;
+}
+
+.manifesto-process a:active
+{
+    color: #3c9;
+}
+
 .manifesto-process-columns
 {
     font-family: 'Open Sans', sans-serif;
