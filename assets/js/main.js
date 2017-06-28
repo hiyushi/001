@@ -267,7 +267,7 @@ $(function(){
       $('.process-col a').attr('href', '/services/#5');
     } else {
       $('.error-page-btn-2').attr('href', '/services/#services-diagram');
-      $('.process-col a').attr('href', '/services/#5');
+      $('.process-col a').attr('href', '/services/#services-diagram');
     }
 
 }).trigger('resize');
