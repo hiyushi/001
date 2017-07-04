@@ -1,13 +1,66 @@
----
-title: '404'
-layout: normal-scroll
-"<!-- permalink": "/error.html -->"
----
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>404</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
 
-<div class="error-page-container">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="manifest" href="assets/images/manifest.json">
+  <meta name="theme-color" content="#ffffff">
 
-  {{ content }}
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Roboto+Mono:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
 
+
+  <body class="regular-scroll">
+
+    <div class="cookie-notice is-hidden">
+  <p>We use Google Analytics to improve our website.  Google Analytics uses cookies. <a href="privacy.html">Read our Privacy Policy</a> to learn more or <a target="_blank" href="https://tools.google.com/dlpage/gaoptout">Opt Out</a> of Google Analytics directly.</p>
+
+  <div class="cookie-notice-buttons">
+    <button class="cookie-notice-btn">I accept cookies</button>
+    <button class="cookie-notice-btn">I refuse cookies</button>
+  </div>
+</div>
+
+    
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <header class="header">
+  <a href="index.html">
+    <img src="assets/images/header-logo.svg" alt="X" class="header-logo">
+  </a>
+
+  <button class="menu-btn"></button>
+
+  <div class="menu-circle"></div>
+
+  <ul class="header-nav">
+    <li class="header-nav-item "><a href="index.html">Home</a></li>
+    <li class="header-nav-item "><a href="services.html">Services</a></li>
+    <li class="header-nav-item "><a href="our-specialty.html">我が社の特色</a></li>
+    <li class="header-nav-item "><a href="clients.html">Clients</a></li>
+    <li class="header-nav-item "><a href="manifesto.html">Manifesto</a></li>
+    <li class="header-nav-item "><a target="_blank" href="https://medium.com/greater-than-experience-design">Insights</a></li>
+    <li class="header-nav-item "><a href="contact.html">Contact</a></li>
+  </ul>
+</header>
+
+
+      <div class="error-page-container">
   <h3 class="h3 error-page-title">Damn! Looks like you’re lost in the Venn…</h3>
 
   <div class="venn-diagram">
@@ -28,8 +81,44 @@ layout: normal-scroll
   <h3 class="h3 error-page-title variant">Never fear! You’ve got options.</h3>
 
   <div class="error-page-buttons">
-    <a class="error-page-btn" href="/services/">What we do</a>
-    <a class="error-page-btn error-page-btn-2" href="/services/#services-diagram">How we do it</a>
-    <a class="error-page-btn" href="/clients/">Who we do it for</a>
+    <a class="error-page-btn" href="services.html">What we do</a>
+    <a class="error-page-btn error-page-btn-2" href="services.html/#services-diagram">How we do it</a>
+    <a class="error-page-btn" href="clients.html">Who we do it for</a>
   </div>
 </div>
+
+
+    <footer class="footer section">
+  <ul class="footer-social">
+    <li><a class="footer-social-icon twitter" target="_blank" href="https://twitter.com/GreaterThanXD">Twitter</a></li>
+    <li><a class="footer-social-icon facebook" target="_blank" href="https://www.facebook.com/GreaterThanExperience/">Facebok</a></li>
+    <li><a class="footer-social-icon linkedin" target="_blank" href="https://www.linkedin.com/company/greater-than-x">Linkedin</a></li>
+    <li><a class="footer-social-icon instagram" target="_blank" href="https://www.instagram.com/greaterthanexperience/">Instagram</a></li>
+  </ul>
+
+  <p>On this site, you're in control. <br> <a href="privacy.html">Here's our Promise and Privacy Policy</a> </p>
+  <p>© Greater Than X 2017  |  <a href="terms-of-use.html">Terms of Use</a></p>
+</footer>
+
+
+  </body>
+
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+</script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parsley.js/2.7.0/parsley.min.js"></script>
+<script src="assets/js/main.js"></script>
+
+</html>
