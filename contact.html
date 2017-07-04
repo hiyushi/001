@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Contact</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="manifest" href="assets/images/manifest.json">
+  <meta name="theme-color" content="#ffffff">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Roboto+Mono:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+
+  <body class="regular-scroll">
+
+    <div class="cookie-notice is-hidden">
+  <p>We use Google Analytics to improve our website.  Google Analytics uses cookies. <a href="privacy.html">Read our Privacy Policy</a> to learn more or <a target="_blank" href="https://tools.google.com/dlpage/gaoptout">Opt Out</a> of Google Analytics directly.</p>
+
+  <div class="cookie-notice-buttons">
+    <button class="cookie-notice-btn">I accept cookies</button>
+    <button class="cookie-notice-btn">I refuse cookies</button>
+  </div>
+</div>
+
+    
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <header class="header">
+  <a href="index.html">
+    <img src="assets/images/header-logo.svg" alt="X" class="header-logo">
+  </a>
+
+  <button class="menu-btn"></button>
+
+  <div class="menu-circle"></div>
+
+  <ul class="header-nav">
+    <li class="header-nav-item "><a href="index.html">Home</a></li>
+    <li class="header-nav-item "><a href="services.html">Services</a></li>
+    <li class="header-nav-item "><a href="our-specialty.html">我が社の特色</a></li>
+    <li class="header-nav-item "><a href="clients.html">Clients</a></li>
+    <li class="header-nav-item "><a href="manifesto.html">Manifesto</a></li>
+    <li class="header-nav-item "><a target="_blank" href="https://medium.com/greater-than-experience-design">Insights</a></li>
+    <li class="header-nav-item is-active"><a href="contact.html">Contact</a></li>
+  </ul>
+</header>
+
+
+      <div class="contact-form-container">
+  <div class="contact-intro">
+  <h2 class="h2 contact-heading animated fadeIn">If it took you three minutes to get to this screen, you’ve made 24 conscious decisions. So have your customers.</h2>
+  <p class="contact-subtitle animated fadeIn">We'll make your next decision easy… Contact us</p>
+</div>
+
+  <div class="contact-form">
+  <form class="js-contact-form" action="" data-parsley-errors-messages-disabled>
+    <div class="contact-form-columns">
+      <div class="contact-form-col">
+        <div class="contact-input-container">
+          <label class="contact-label" for="">Name</label>
+          <input class="contact-input" type="text">
+          <span class="input-tooltip">
+            <span class="input-tooltip-content">
+              <p>Thanks for sharing. This icon represents how your data will be treated; securely and with respect.</p>
+            </span>
+          </span>
+        </div>
+        <div class="contact-input-container">
+          <label class="contact-label contact-label-2" for="">Company</label>
+          <input class="contact-input" type="text">
+          <span class="input-tooltip">
+            <span class="input-tooltip-content">
+              <p>Thanks for sharing. This icon represents how your data will be treated; securely and with respect.</p>
+            </span>
+          </span>
+        </div>
+        <div class="contact-input-container">
+          <label class="contact-label contact-label-2" for="">Telephone</label>
+          <input class="contact-input" data-parsley-trigger="change" pattern="/\(?([0-9]{3})\)?([ .-]?)([0-9]{3})\2([0-9]{4})/" data-parsley-pattern="/\(?([0-9]{3})\)?([ .-]?)([0-9]{3})\2([0-9]{4})/"  type="text"  maxlength="15">
+          <span class="error-message">Want to chat? Check your number</span>
+          <span class="input-tooltip">
+            <span class="input-tooltip-content">
+              <p>Thanks for sharing. This icon represents how your data will be treated; securely and with respect.</p>
+            </span>
+          </span>
+        </div>
+        <div class="contact-input-container">
+          <label class="contact-label contact-label-2" for="">Email</label>
+          <input class="contact-input email-input" type="email" data-parsley-trigger="change" data-parsley-type="email" autocomplete="off">
+          <span class="error-message">Need a reply? Check your email</span>
+          <span class="input-tooltip">
+            <span class="input-tooltip-content">
+              <p>Thanks for sharing. This icon represents how your data will be treated; securely and with respect.</p>
+            </span>
+          </span>
+        </div>
+      </div>
+      <div class="contact-form-col">
+        <div class="textarea-container">
+          <label class="contact-label" for="">Your message*</label>
+          <textarea class="contact-textarea" placeholder="Talk to us. If you want a response, we’ll need your contact details." name="" maxlength="250" required></textarea>
+          <span class="input-tooltip textarea-tooltip">
+            <span class="input-tooltip-content">
+              <p>Thanks for sharing. This icon represents how your data will be treated; securely and with respect.</p>
+            </span>
+          </span>
+          <span class="textarea-counter"><span class="counter-number">250</span> Characters</span>
+        </div>
+      </div>
+    </div>
+    <div class="contact-form-test">
+      <h4 class="form-test-heading">Pass the human test before you submit.</h4>
+      <span class="test-number-card test-number-1"></span>
+      <span class="test-symbol">+</span>
+      <span class="test-number-card test-number-2"></span>
+      <span class="test-symbol">=</span>
+      <input class="test-input" type="text" maxlength="4" size="4">
+      <span class="form-text-message">You can now submit</span>
+      <span class="form-test-icon"></span>
+    </div>
+
+    <button class="contact-form-submit is-inactive">Submit</button>
+  </form>
+</div>
+
+</div>
+
+<section class="contact-confirmation">
+  <div class="spinner-wrapper">
+    <div class="spinner">
+      <span class="spinner-dot"></span>
+    </div>
+
+    <div class="spinner-image-container">
+      <span class="spinner-image"></span>
+      <p class="spinner-text">Just a sec...</p>
+    </div>
+  </div>
+
+  <div class="confirmation">
+    <h2 class="h2 confirmation-title">Congrats! Your contact form has been sent securely</h2>
+    <div class="confirmation-icon">
+      <img src="assets/images/confirmation-checkmark.svg">
+    </div>
+    <p class="confirmation-subtitle">We’ll be in touch soon. In the meantime, here’s the latest and greatest from around the globe</p>
+    <a href="https://medium.com/greater-than-experience-design" class="confirmation-cta">Insights</a>
+
+    <img src="assets/images/confirmation-globe.svg" class="confirmation-globe">
+  </div>
+
+</section>
+
+
+
+    <footer class="footer section">
+  <ul class="footer-social">
+    <li><a class="footer-social-icon twitter" target="_blank" href="https://twitter.com/GreaterThanXD">Twitter</a></li>
+    <li><a class="footer-social-icon facebook" target="_blank" href="https://www.facebook.com/GreaterThanExperience/">Facebok</a></li>
+    <li><a class="footer-social-icon linkedin" target="_blank" href="https://www.linkedin.com/company/greater-than-x">Linkedin</a></li>
+    <li><a class="footer-social-icon instagram" target="_blank" href="https://www.instagram.com/greaterthanexperience/">Instagram</a></li>
+  </ul>
+
+  <p>On this site, you're in control. <br> <a href="privacy.html">Here's our Promise and Privacy Policy</a> </p>
+  <p>© Greater Than X 2017  |  <a href="terms-of-use.html">Terms of Use</a></p>
+</footer>
+
+
+  </body>
+
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+</script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.4/jquery.fullpage.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parsley.js/2.7.0/parsley.min.js"></script>
+<script src="assets/js/main.js"></script>
+
+</html>
