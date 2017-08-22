@@ -23,14 +23,15 @@ First Slide Text: 'It''s not news that why we do what we do is as important as t
 '
 Second Slide Text: 'This is where the magic really starts to unfold. Here we engage
   customers to begin learning about value, meaning and engagement through their eyes.
-  From this, we define key VME Experience Metrics, and get to the bottom of why your
-  product, service or offer should exist. We then drive forward!
+  From this, we define key metrics and get to the bottom of why your product or service
+  should exist. It becomes crystal clear why you deserve to be trusted. We then drive
+  forward!
 
 '
 Third Slide Text: Keeping the customer close, our experience design process begins
   to unfold - quickly. Through short iteration cycles, we define, design and test
-  valuable, meaningful and engaging human experiences. Only once we've nailed it do
-  we proceed.
+  valuable, meaningful and engaging human experiences. We validate your brands’ trustworthiness.
+  Only once we've nailed it do we proceed.
 Fourth Slide Text: It's time to start realising business value. At this point we might
   be a few weeks, or a few months into the process. This really doesn't matter. What
   matters is that we've proven an experience that delivers value, meaning and engagement.
