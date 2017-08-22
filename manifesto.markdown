@@ -44,10 +44,11 @@ Pillars Engagement Second Text: |-
   Thanks to our anticipation, dopamine directly impacts engagement. It’s also a key part of motivating us to hire or fire a product in the first place.
 Circle Title: Over time, we’ve come to learn the best experiences are balanced. They
   satisfy, delight, and in the best of cases, engage all 5 human senses.
-Process Text: |-
-  Drawing on research and design best practice, we’ve developed a [methodology for 3 pillar design](/services/#5). A framework that helps quantify value, meaning and engagement.
-
-  Through this methodology, we deliver experiences greater than the sum of their parts.
+Process Text: "Drawing on research and design best practice, we’ve developed a [methodology
+  for 3 pillar design](/services/#5). A framework that helps quantify value, meaning
+  and engagement.\n\nThrough this methodology, we deliver experiences greater than
+  the sum of their parts. These experiences earn trust. They capture hearts, minds
+  and wallets. "
 Half Globe Lead: Defining value, meaning and engagement is just the start. Change
   is constant. People and their perceptions evolve.
 Half Globe Text: |-
