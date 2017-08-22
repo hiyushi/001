@@ -3,16 +3,15 @@ title: Our Specialty
 date: 2017-05-08 10:51:00 Z
 Title: 我が社の特色
 Subtitle: "“Wagasya no Tokusyoku”"
-Our Speciality Section 1 Text: |-
-  Traditional Japanese culture is marvelled globally. Their pursuit of perfection gave rise to the Just-in-Time philosophy, birthed the Kanban System, and even helped produce some of the finest single malt whiskey ever known.
-
-  The pursuit of perfection inspires us on a daily basis.
-
-  > “Wagasya no Tokusyoku” translates to “our company specialty”. Here we offer unique services.
-
-  These services are the result of our time in market. They’re our unique expertise. They can help you create new customer and business value.
+Our Speciality Section 1 Text: "Traditional Japanese culture is marvelled globally.
+  Their pursuit of perfection gave rise to the Just-in-Time philosophy, birthed the
+  Kanban System, and even helped produce some of the finest single malt whiskey ever
+  known.\n\nThe pursuit of perfection inspires us on a daily basis.\n\n> “Wagasya
+  no Tokusyoku” translates to “our company specialty”. \n\nThese services are the
+  result of our time in market. They’re designed specifically to increase your return
+  on trust. "
 Our Speciality Section 2 Text: |-
-  ## Privacy by Design
+  ## Data Transparency by Design
 
   For the past decade personal data has been the raw material of digital business. Residing in aggregate form on balance sheets, this asset has created value for businesses and their shareholders.
 
@@ -20,25 +19,27 @@ Our Speciality Section 2 Text: |-
 Our Speciality Section 3 Text: |+
   > Consumer trust is in a downward spiral.
 
-  Regulation is forcing organisations to change the way they acquire, store and process personal data. In short, people are gaining agency over their data.
+  Regulation is forcing organisations to change the way they acquire, store and process personal data. In short, people will soon be in control.
 
   This presents an array of challenges for any business requiring personal data to deliver its value proposition.
 
 Our Speciality Section 4 Text: |
-  We’ve been at the forefront of the Privacy Enhancing Technologies (PETs) movement. We’ve designed privacy preserving user experiences for some of the world’s leading brands. Because of this we’re uniquely positioned to conduct research, design experiences, and inform strategy. These services convert the challenge of the human-centered personal data revolution into new value opportunities.
+  We’ve been at the forefront of the Privacy Enhancing Technologies (PETs) movement. We’ve designed trust enhancing experiences for some of the world’s leading brands. Because of this we’re uniquely positioned to conduct research, design experiences, and inform strategy. These services convert today’s data trust gap into your competitive advantage.
 
-  > So, we’ve got personal data covered.
+  > So, we’ve got the big picture of personal data and trust covered.
 
-  > How about the economics of design? Is your internal design function self sustaining? Does it create tangible business value?
+  > But what about today? What is it exactly that you need to do next?
 
-  With us it can and will. Kick start this process with the simple gesture of scrolling.
+  Scroll and we’ll tell you.
 Sprint Section Title: Design Sprints as a Service
-Sprint Section Lead: Running a design sprint can be tough. Generating tangible business
-  value within five days is even tougher.
-Our Speciality Section 5 Text: |
-  Building upon the framework that helped launch and refine some of the world’s leading products, we’ve taken it a step further. >X Design Sprints as a Service help solve customer problems quickly and effectively. They also produce tangible business value. Pretty great for a five day exercise.
-
-  > However, the purpose of this service offering extends beyond that. Your people and teams will walk away equipped with new tools and techniques. This is how we start to embed great design practice in your organization.
+Sprint Section Lead: We’ve optimised the Design Sprint. In just 5 days we can catapult
+  you towards a return on trust.
+Our Speciality Section 5 Text: "This process brings teams into alignment. It gets
+  you focused on stuff that matters to your customers and your business. It gives
+  you real data that you can use to make solid, strategic decisions. \n\n> However,
+  the purpose of this service offering extends beyond that. Your people and teams
+  will walk away equipped with new tools and techniques. This is how we start to embed
+  trust design practice in your organisation."
 layout: our-speciality
 ---
 
