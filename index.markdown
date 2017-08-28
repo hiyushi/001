@@ -10,7 +10,8 @@ CTA First Text: "Let’s cut to the chase and be specific.\n<br> \nThis is what 
 CTA Second Text: "Perhaps you want to know more about what makes us different. \n<br>\nThis
   is why we exist."
 description: Trust is today’s competitive advantage. With new metrics, tools and approaches
-  we design experiences that earn you the trust of the people you serves as customers.
+  we design experiences that earn brands the trust of their customers. The experiences
+  we design capture hearts, minds and wallets.
 layout: home
 ---
 
