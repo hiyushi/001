@@ -1,9 +1,8 @@
 ---
 title: Home
 date: 2017-05-08 15:50:00 Z
-Main Title: Today there is a data trust gap...
-Overview: Our services help you overcome this gap, create new value and competitively
-  differentiate.
+Main Title: Stop eroding and start earning trust today.
+Overview: We'll help you close the trust gap, create new value and competitively differentiate.
 Overview Highlight: This is how you'll earn a place in hearts, minds and wallets.
 CTA First Text: "Let’s cut to the chase.\n<br> \nThis is what we do and how we do
   it.\n"
