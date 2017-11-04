@@ -1,9 +1,9 @@
 ---
 title: Home
 date: 2017-05-08 15:50:00 Z
-Main Title: Stop eroding and start earning trust today.
-Overview: We'll help you close the trust gap, create new value and competitively differentiate.
-Overview Highlight: This is how you'll earn a place in hearts, minds and wallets.
+Main Title: We design trustworthy products and services for leading brands
+Overview: Our unique metrics, tools and approaches make this possible.
+Overview Highlight: 'Our services can help make trust your competitive advantage today. '
 CTA First Text: "Let’s cut to the chase.\n<br> \nThis is what we do and how we do
   it.\n"
 CTA Second Text: "Want to know more about what makes us different? \n<br>\nThis is
