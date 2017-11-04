@@ -9,7 +9,8 @@ Intro Second Text: |-
   We believe experiences should be greater than the sum of their parts.
 
   Our experiences should deliver us value, meaning and engagement.
-Pillars Lead: This is what we’ve come to define as the 3 pillars of great human experience.
+Pillars Lead: This is what we’ve come to define as the 3 pillars of great human experience,
+  or VME Design.
 Pillars Value First Text: |-
   People choose to hire or fire products and services based on what they’re actually trying to achieve. This is the outcome they really care about; their Job to be Done.
 
@@ -45,16 +46,16 @@ Pillars Engagement Second Text: |-
 Circle Title: Over time, we’ve come to learn the best experiences are balanced. They
   satisfy, delight, and in the best of cases, engage all 5 human senses.
 Process Text: "Drawing on research and design best practice, we’ve developed a [methodology
-  for 3 pillar design](/services/#5). A framework that helps quantify value, meaning
+  for 3 pillar design](/services/#5). A framework that helps uncover value, meaning
   and engagement.\n\nThrough this methodology, we deliver experiences greater than
-  the sum of their parts. These experiences earn trust. They capture hearts, minds
-  and wallets. "
+  the sum of their parts. These experiences are inherently trustworthy. They capture
+  hearts, minds and wallets. "
 Half Globe Lead: Defining value, meaning and engagement is just the start. Change
   is constant. People and their perceptions evolve.
 Half Globe Text: |-
   We recognise this reality and embed it into our process.
 
-  Once an experience makes its way into the real world, we begin optimizing ruthlessly.
+  Once an experience makes its way into the real world, we begin optimising ruthlessly.
 Promise First Text: Which brings us to our promise – the true purpose of this manifesto.
 Promise Quote: For every human problem we encounter, we will relentlessly pursue to
   design for value, for meaning and for engagement.
