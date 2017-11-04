@@ -13,7 +13,7 @@ Slide 1: A wearables innovator trusted by athletes and astronauts
 Slide 2: A leading global bank
 Slide 3: A major card issuer
 Slide 4: A breakthrough data startup
-Slide 5: A government digital services unit
+Slide 5: A  government
 Slide 6: Now that you’ve had a taste…
 layout: clients
 ---
