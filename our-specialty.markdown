@@ -12,7 +12,7 @@ Our Speciality Section 1 Text: "Traditional Japanese culture is marvelled global
 Our Speciality Section 2 Text: "## Data Transparency by Design\n\nTo become inherently
   trustworthy, you need to evolve your culture, workflows and outputs. The principles
   and practices of Data Transparency by Design can help you do that. \n\n> DTbD can
-  be your foundation."
+  be your trust foundation."
 Our Speciality Section 3 Text: |+
   > The question is; why now?.
 
