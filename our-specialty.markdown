@@ -7,24 +7,21 @@ Our Speciality Section 1 Text: "Traditional Japanese culture is marvelled global
   Their pursuit of perfection gave rise to the Just-in-Time philosophy, birthed the
   Kanban System, and even helped produce some of the finest single malt whiskey ever
   known.\n\nThe pursuit of perfection inspires us on a daily basis.\n\n> “Wagasya
-  no Tokusyoku” translates to “our company specialty”. \n\nThese services are the
-  result of our time in market. They’re designed specifically to increase your return
-  on trust. "
-Our Speciality Section 2 Text: |-
-  ## Data Transparency by Design
-
-  For the past decade personal data has been the raw material of digital business. Residing in aggregate form on balance sheets, this asset has created value for businesses and their shareholders.
-
-  > All of this is changing.
+  no Tokusyoku” translates to “our company specialty”. \n\nThese services are unique
+  offerings, specifically designed to optimise your trustworthiness quickly."
+Our Speciality Section 2 Text: "## Data Transparency by Design\n\nTo become inherently
+  trustworthy, you need to evolve your culture, workflows and outputs. The principles
+  and practices of Data Transparency by Design can help you do that. \n\n> DTbD can
+  be your foundation."
 Our Speciality Section 3 Text: |+
-  > Consumer trust is in a downward spiral.
+  > The question is; why now?.
 
-  Regulation is forcing organisations to change the way they acquire, store and process personal data. In short, people will soon be in control.
+  Well, regulation is forcing organisations to change the way they acquire, store and process personal data. In short, people will soon be in control.
 
-  This presents an array of challenges for any business requiring personal data to deliver its value proposition.
+  When people are in control, trust becomes an advantage. But others are already making moves.
 
 Our Speciality Section 4 Text: |
-  We’ve been at the forefront of the Privacy Enhancing Technologies (PETs) movement. We’ve designed trust enhancing experiences for some of the world’s leading brands. Because of this we’re uniquely positioned to conduct research, design experiences, and inform strategy. These services convert today’s data trust gap into your competitive advantage.
+  We’re experiencing systemic change. Transparency, privacy and security are no longer nice to have's. They're fundamental necessities. But rather than a simple compliance angle, we can help you design new and unique value for the people you serve. We can help make your trustworthiness a competitive advantage.
 
   > So, we’ve got the big picture of personal data and trust covered.
 
