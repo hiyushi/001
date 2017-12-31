@@ -21,7 +21,7 @@ Our Speciality Section 3 Text: |+
   When people are in control, trust becomes an advantage. But others are already making moves.
 
 Our Speciality Section 4 Text: |
-  We’re experiencing systemic change. Transparency, privacy and security are no longer nice to have's. They're fundamental necessities. But rather than a simple compliance angle, we can help you design new and unique value for the people you serve. We can help make your trustworthiness a competitive advantage.
+  Today we’re right in the thick of systemic change. Transparency, privacy and security have become necessity. But rather than taking the old compliance angle, we can help you design new and unique value for the people you serve. We can help make your trustworthiness a competitive advantage.
 
   > So, we’ve got the big picture of personal data and trust covered.
 
