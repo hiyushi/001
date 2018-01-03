@@ -14,7 +14,7 @@ Our Speciality Section 2 Text: "## Data Transparency by Design\n\nTo become inhe
   and practices of Data Transparency by Design can help you do that. \n\n> DTbD can
   be your trust foundation."
 Our Speciality Section 3 Text: |+
-  > The question is; why now?.
+  > The question is; why now?
 
   Well, regulation is forcing organisations to change the way they acquire, store and process personal data. In short, people will soon be in control.
 
